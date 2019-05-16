@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "Nexmo"
+exit 0
